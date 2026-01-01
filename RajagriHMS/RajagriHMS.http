@@ -1,0 +1,6 @@
+@RajagriHMS_HostAddress = http://localhost:5150
+
+GET {{RajagriHMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
